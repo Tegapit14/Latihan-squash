@@ -1,2 +1,2 @@
 # Latihan-squash
-Latihan squash 50%
+Latihan squash 100%
