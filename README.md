@@ -1,2 +1,2 @@
 # Latihan-squash
-Repository untuk latihan squah
+Latihan squash 50%
